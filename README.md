@@ -1,7 +1,7 @@
 ## Hi I'm Nailu Bracho 👋
 
 ### Frontend Developer 
-[![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 ---
 ### 👩‍💻 About Me
 💻 Frontend Developer with professional experience using Angular.</br>

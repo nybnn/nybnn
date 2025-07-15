@@ -1,7 +1,8 @@
 ## Hi I'm Nailu Bracho 👋
 
-<!--
-**nybnn/nybnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+---
 
 Here are some ideas to get you started:
 

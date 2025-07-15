@@ -1,9 +1,9 @@
 ## Hi I'm Nailu Bracho 👋
 
 ### Frontend Developer 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSatcard_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-
+---
 ### 👩‍💻 About Me
 💻 Frontend Developer with professional experience using Angular.</br>
 🎨 Currently studying UX/UI Design to enhance product interface quality.</br>
@@ -11,6 +11,7 @@
 🔧 Focused on performance, accessibility, and code consistency.</br>
 🌐 Constant learner of new technologies and frontend best practices.</br>
 
+---
 ### Technologies:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -55,5 +56,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
 </div>
+
+---
+### 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nailu-bracho/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nailubrachon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://nbracho-cv.vercel.app/)
+
+---
 

@@ -1,7 +1,7 @@
 ## Hi I'm Nailu Bracho 👋
 
 ### Frontend Developer 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSatcard_width=467)](#)
 
 
 Here are some ideas to get you started:

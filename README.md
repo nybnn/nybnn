@@ -2,7 +2,8 @@
 
 ### Frontend Developer 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nybnn&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&show_icons=true)](https://github.com/nybnn)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nybnn&theme=material-palenight&hide_border=true&border_radius=6&show_icons=true&include_all_commits=true)](https://github.com/nybnn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nybnn&layout=compact&theme=material-palenight&hide_border=true&border_radius=6)](https://github.com/nybnn)
 
 Here are some ideas to get you started:
 

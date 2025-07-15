@@ -1,7 +1,7 @@
 ## Hi I'm Nailu Bracho 👋
 
 ### Frontend Developer 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nailubracho&theme=material-palenight&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ---
 
 ### 👩‍💻 About Me

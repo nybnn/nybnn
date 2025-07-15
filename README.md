@@ -20,6 +20,6 @@
 
 ## 🌐 Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@NailuBracho-004B5E?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nailu-bracho/)
-[![Portfolio](https://img.shields.io/badge/Website-NbrachoCV-004B5E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://nbracho-cv.vercel.app/)
 [![Email](https://img.shields.io/badge/nailubrachon@gmail.com-email-80DCCA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nailubrachon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-NbrachoCV-004B5E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://nbracho-cv.vercel.app/)
 

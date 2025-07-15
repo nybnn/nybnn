@@ -1,7 +1,8 @@
 ## Hi I'm Nailu Bracho 👋
 
 ### Frontend Developer 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nybnn&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&show_icons=true)](https://github.com/nybnn)
 
 Here are some ideas to get you started:
 

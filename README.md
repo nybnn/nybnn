@@ -2,7 +2,7 @@
 
 ### Frontend Developer 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nybnn&theme=material-palenight&hide_border=true&border_radius=6&show_icons=true&include_all_commits=true)](https://github.com/nybnn)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nybnn&theme=nightowl&hide_border=true&border_radius=6&show_icons=true&include_all_commits=true)](https://github.com/nybnn) 
 
 ## 👩‍💻 About Me
 💻 Frontend Developer with professional experience using Angular.</br>
@@ -21,5 +21,5 @@
 ## 🌐 Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@NailuBracho-004B5E?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nailu-bracho/)
 [![Portfolio](https://img.shields.io/badge/Website-NbrachoCV-004B5E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://nbracho-cv.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nailubrachon@gmail.com)
+[![Email](https://img.shields.io/badge/nailubrachon@gmail.com-email-80DCCA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nailubrachon@gmail.com)
 

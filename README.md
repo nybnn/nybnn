@@ -2,14 +2,13 @@
 
 ### Frontend Developer 
 [![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
---- 
+---
 ### 👩‍💻 About Me
 💻 Frontend Developer with professional experience using Angular.</br>
 🎨 Currently studying UX/UI Design to enhance product interface quality.</br>
 🚀 Passionate about building clean, scalable, and maintainable web applications.</br>
 🔧 Focused on performance, accessibility, and code consistency.</br>
 🌐 Constant learner of new technologies and frontend best practices.</br>
----
 
 ### Technologies:
 <div align="left">

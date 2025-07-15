@@ -14,13 +14,13 @@
 ## Technologies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,less,bootstrap,tailwind,materialui,js,ts,vue,angular,nuxt,git,github,gitlab,firebase,vercel,figma,vscode,linux,postman,powershell,bash,php,wordpress,ps,ai" alt="tech stack logos" />
+    <img src="https://skillicons.dev/icons?i=html,css,less,sass,bootstrap,tailwind,materialui,js,ts,vue,angular,nuxt,git,github,gitlab,firebase,vercel,figma,vscode,linux,postman,powershell,bash,php,wordpress,ps,ai" alt="tech stack logos" />
   </a>
 </p>
 
-## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nailu-bracho/)
+## 🌐 Let's Connect! 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-@NailuBracho-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nailu-bracho/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nailubrachon@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://nbracho-cv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Website-NbrachoCV-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://nbracho-cv.vercel.app/)
 
 

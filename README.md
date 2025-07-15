@@ -1,7 +1,7 @@
 ## Hi I'm Nailu Bracho 👋
 
 ### Frontend Developer 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 ### 👩‍💻 About Me
@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />

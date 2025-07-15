@@ -12,9 +12,9 @@
 🌐 Constant learner of new technologies and frontend best practices.</br>
 
 ## Technologies:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,less,bootstrap,tailwind,materialui,js,ts,vue,angular,nuxt,git,github,gitlab,firebase,vercel,figma,vscode,linux,postman,powershell,bash,php,wordpress" height="40" alt="tech stack logos" />
+    <img src="https://skillicons.dev/icons?i=html,css,less,bootstrap,tailwind,materialui,js,ts,vue,angular,nuxt,git,github,gitlab,firebase,vercel,figma,vscode,linux,postman,powershell,bash,php,wordpress" alt="tech stack logos" />
   </a>
 </p>
 

@@ -14,7 +14,7 @@
 ## Technologies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,less,bootstrap,tailwind,materialui,js,ts,vue,angular,nuxt,git,github,gitlab,firebase,vercel,figma,vscode,linux,postman,powershell,bash,php,wordpress" alt="tech stack logos" />
+    <img src="https://skillicons.dev/icons?i=html,css,less,bootstrap,tailwind,materialui,js,ts,vue,angular,nuxt,git,github,gitlab,firebase,vercel,figma,vscode,linux,postman,powershell,bash,php,wordpress,ps,ai" alt="tech stack logos" />
   </a>
 </p>
 

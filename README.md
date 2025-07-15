@@ -3,7 +3,10 @@
 ### Frontend Developer 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-<img src="https://streak-stats.demolab.com?user=nybnn&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nybnn&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+
 
 
 ### 👩‍💻 About Me
